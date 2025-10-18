@@ -1,3 +1,5 @@
+<img width="1278" height="590" alt="IMG_1326" src="https://github.com/user-attachments/assets/eb27b1da-2c9e-4731-b4d7-cbaf31995b51" />
+)
 # hafta4
 loan
 create database loan;
